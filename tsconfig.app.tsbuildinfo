@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/addwidgetform.test.tsx","./src/components/addwidgetform.tsx","./src/components/dashboard.test.tsx","./src/components/dashboard.tsx","./src/components/weatherwidget.test.tsx","./src/components/weatherwidget.tsx","./src/context/unitcontext.tsx","./src/utils/localstorageutils.ts"],"version":"5.6.2"}
